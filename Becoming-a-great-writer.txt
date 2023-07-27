@@ -1,0 +1,28 @@
+As I have been working on various programming projects, I have begun writing little pieces of documentation for myself in order to improve my understanding of concepts and tools as well as to act as a reference.
+However, this process had been more difficult than I had expected. 
+As I stumbled to express my thoughts and knowledge about various software concepts and tools, I realized my writing abilities leave something to be desired.
+My own ineptitude set forth a desire to become a more clear and concise writer.
+I hope to nurture and develop my own writing abilities and thereby I hope to become more thoughtful and effective person.
+
+After writing the paragraph previous, I posit a few ways to be a great writer:
+- Develop a bountiful vocabulary with an understanding of the sublety and distinction of each of the words
+    By doing so, you will be more precise with your language and be more detailed and definite with your descriptions.
+- Craft each aspect of your writing from the word choice, the phrasing, the sentence structure, the thought of each paragraph, all the way to the big picture idea you want to convey   
+    Carefully examine and polish your writing. Great writing harmonizes on many different levels.
+- Acquire a thorough hunger for knowledge and a desire to understand. 
+    A great writer has a deep understanding of the topics that they write about. They are great thinkers, aswell.
+- Pay attention to the little details like punctionation, tone, and word choice.
+- Read often, great writers are also great readers. By reading frequently, you are also studying other writers. Leverage reading to make you a better writer. 
+- Use tools to make you a better writer. Some of these tools are: 
+    Dictionaries, 
+    Thesarusus,
+    Rough Drafts, 
+    Notes, 
+    Sketches,
+  There are also software tools that can help make you a better writer. 
+  
+  I wonder if NixOS has any tools to help make me a better writer?
+  Yes, I have installed Artha as an offline thesaurus.
+  
+  
+ 
